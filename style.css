@@ -7,7 +7,7 @@
 }
 
 html {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: normal;
 }
@@ -22,12 +22,10 @@ a {
 }
 
 .header {
-    background-color: #eeeff1;
+    background-color: #EEEFF1;
     padding-top: 80px;
     padding-bottom: 140px;
 }
-
-
 
 .navbar {
     margin-bottom: 162px;
@@ -55,13 +53,13 @@ a {
 }
 
 .content__title {
-    margin-bottom: 60%;
+    margin-bottom: 60px;
     font-weight: 500;
 }
 
 .content__description {
     margin-bottom: 65px;
-    line-height: 1.625px;
+    line-height: 26px;
     color: #727272;
 }
 
