@@ -92,8 +92,6 @@ a {
     gap: 43px;
 }
 
-.navbar__item {}
-
 .navbar__link {
     color: var(--color-black);
     letter-spacing: var(--letter-spacing);
@@ -154,8 +152,6 @@ a {
     align-items: center;
     flex: 1;
 }
-
-.expirience-item__image {}
 
 .expirience-item__description {
     line-height: 26px;
