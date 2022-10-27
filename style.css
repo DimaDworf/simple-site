@@ -75,3 +75,14 @@ a {
     align-items: center;
     justify-content: center;
 }
+
+.about {
+    padding: 112px 0 100px;
+}
+
+.about__title {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+}
